@@ -1,0 +1,4 @@
+
+
+
+interface between the user and the hardware. an os provides an interface between user and machine. this interface can be a grapghical user interface in which useser click onscreen element to interact with the os or a comment line interface in which useers type comments at the comment ine interface to tell the os to do things
